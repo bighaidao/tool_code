@@ -1,5 +1,6 @@
 import urllib,urllib2
 import re
+#下载 andrew moor 课件 脚本
 from BeautifulSoup import BeautifulSoup
 #urllib.urlretrieve(url, filename)
 hosts=["http://www.cedar.buffalo.edu/~srihari/CSE574/"]
