@@ -179,3 +179,6 @@ nmap <leader>si :cs find i <C-R>=expand("<cfile>")<cr><cr>
 nmap <leader>sd :cs find d <C-R>=expand("<cword>")<cr><cr>
 nmap <leader>zz <C-w>o
 nmap <leader>gs :GetScripts<cr>
+
+
+vnoremap <C-C> "+y
